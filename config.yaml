@@ -1,0 +1,25 @@
+
+# Map of extension (lowercase, without dot) to folder name
+rules:
+  pdf: Documents
+  doc: Documents
+  docx: Documents
+  xls: Spreadsheets
+  xlsx: Spreadsheets
+  csv: Data
+  jpg: Images
+  jpeg: Images
+  png: Images
+  gif: Images
+  svg: Images
+  mp4: Videos
+  mov: Videos
+  mkv: Videos
+  mp3: Audio
+  wav: Audio
+  zip: Archives
+  rar: Archives
+  7z: Archives
+  exe: Installers
+  msi: Installers
+default_folder: Others
